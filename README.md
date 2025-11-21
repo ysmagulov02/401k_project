@@ -5,6 +5,10 @@
 
 A full-stack web application for managing 401(k) retirement contributions. Users can set their contribution type (percentage or fixed dollar amount), adjust their contribution rate, view YTD data, and see projected retirement savings.
 
+## Demo
+- https://youtu.be/HT1fNMbj6Ms
+
+
 ## Features
 
 - **Contribution Type Toggle**: Switch between percentage of paycheck or fixed dollar amount per paycheck
@@ -123,8 +127,3 @@ If I had another week to work on this, I would prioritize:
 
 3. **"What If" Comparison Tool**  
    A side-by-side view showing how different contribution rates affect both take-home pay today and retirement savings in the future, helping users find the right balance.
-
-## Contact
-
-Yernar Smagulov  
-GitHub: [@ysmagulov02](https://github.com/ysmagulov02)
